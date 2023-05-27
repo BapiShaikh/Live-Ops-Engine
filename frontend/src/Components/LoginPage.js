@@ -104,7 +104,7 @@ const LoginPage = () => {
                                 }} />
                                     : <VisibilityOffIcon className="icon" onClick={() => {
 
-                                        // console.log("clicked")
+                                      
 
 
                                         setSee(true)
